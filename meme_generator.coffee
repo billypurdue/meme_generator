@@ -133,6 +133,16 @@ module.exports = (robot) ->
         imageID: 2295701
       },
       {
+        regex: /(memegen)?(Why the fuck) (.*)/i,
+        generatorID: 1440450,
+        imageID: 5959710
+      },
+      {
+        regex: /(memegen)?(Why the friend) (.*)/i,
+        generatorID: 1440450,
+        imageID: 5959710
+      },	  
+      {
         regex: /(memegen)?(WHAT IF I TOLD YOU) (.*)/i,
         generatorID: 1118843,
         imageID: 4796874
