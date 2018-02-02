@@ -6,7 +6,7 @@ Meme generation for hubot with memegenerator.net
 
 Add it to your scripts folder.
 
-You'll need to set environmental variables with your credentials for memegenerator.net as well as your dimension preference:
+You'll set environmental variables with your credentials for memegenerator.net as well as your dimension preference:
 
 	HUBOT_MEMEGEN_USERNAME
 	HUBOT_MEMEGEN_PASSWORD
