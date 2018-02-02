@@ -4,7 +4,7 @@ Meme generation for hubot with memegenerator.net
 
 ## Motivation
 
-When Meme Captain went away I needed an easy way to keep generating memes with Hubot (although truthfully it wasn't me, it was my coworkers who were complaining about it).  I found the old meme_generator coffee script in an abandoned hubot scripts repository on github, fixed it up, and here it is.
+When Meme Captain went away I needed an easy way to keep generating memes with Hubot (although truthfully it wasn't me, it was my coworkers who were complaining about it).  I found the old meme_generator coffee script in an abandoned hubot scripts repository on github, fixed it up, and here it is.  I didn't fork the repo because I didn't want the entire thing, just this script.
 
 ## Installation
 
