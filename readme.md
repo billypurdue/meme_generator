@@ -2,10 +2,7 @@
 
 Meme generation for hubot with memegenerator.net
 
-## Example
-
-
-Commands:
+## Example Commands
 
 hubot memegen Y U NO <text>  - Generates the Y U NO GUY with the bottom caption of <text>
 
