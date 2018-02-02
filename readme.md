@@ -2,6 +2,18 @@
 
 Meme generation for hubot with memegenerator.net
 
+## Installation
+
+Add it to your scripts folder.
+
+You'll need to set environmental variables with your credentials for memegenerator.net as well as your dimension preference:
+
+	HUBOT_MEMEGEN_USERNAME
+	HUBOT_MEMEGEN_PASSWORD
+	HUBOT_MEMEGEN_DIMENSIONS
+
+Username and password are required, however the dimensions preference is not required.
+
 ## Example Commands
 
 hubot memegen Y U NO <text>  - Generates the Y U NO GUY with the bottom caption of <text>
