@@ -2,6 +2,10 @@
 
 Meme generation for hubot with memegenerator.net
 
+## Motivation
+
+Whene Meme Captain went away I needed an easy way to keep generating memes with Hubot (although truthfully it wasn't me, it was my coworkers who were complaining about it).  I found the old meme_generator coffee script in an abandoned hubot scripts repository on github, fixed it up, and here it is.
+
 ## Installation
 
 Add it to your scripts folder.
@@ -61,10 +65,6 @@ hubot memegen WHAT IF I TOLD YOU <text> - Generates Morpheus
 hubot memegen <text> BETTER DRINK MY OWN PISS - Generates Bear Grylls
 
 hubot memegen INTERNET KID <text>, <text> - Generates First-day-on-the-Internet Kid
-
-## Motivation
-
-Whene Meme Captain went away I needed an easy way to keep generating memes with Hubot (although truthfully it wasn't me, it was my coworkers who were complaining about it).  I found the old meme_generator coffee script in an abandoned hubot scripts repository on github, fixed it up, and here it is.
 
 ## Contributors
 
